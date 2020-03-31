@@ -5,7 +5,7 @@ I made a DB and Table with a querry (SQL folder -> SQLQuerry8.sql file).
 
 To run this project open "VS CoreServices" folder, then open CoreServices.sln
 
-In this excercise I did the following:
+In this exercise I did the following:
 
  1. CRUD Blog posts
  2. List of one or more posts
