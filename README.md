@@ -9,6 +9,8 @@ In this excercise I did the following:
 
  1. CRUD Blog posts
  2. List of one or more posts
+ 3. JSON Objects returned by API
+ 4. Different Endpoints
  
 
 I was using IDs instead of slugs, because I don't know how to implement them.
